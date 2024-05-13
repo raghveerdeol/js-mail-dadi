@@ -40,10 +40,19 @@ a{
     text-decoration: none;
     border: 2px solid black;
     border-radius: 2rem;
+    padding: 1rem;
+}
+#sinistra{
     position: relative;
     top: 310px;
-    padding: 1rem;
     left: 25px;
     background-color: #0f3c2d;
+    color: white;
+}
+#destra{
+    position: absolute;
+    top: 310px;
+    right: 25px;
+    background-color: rgb(82, 9, 9);
     color: white;
 }
