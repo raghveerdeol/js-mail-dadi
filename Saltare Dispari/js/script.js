@@ -11,10 +11,10 @@ for (let i = 0; i < 6; i++) {
     if (number % 2 == 0) {
         // inserire nel array
         x.push(number);
-        mostra.innerHTML = x;
+        mostra.innerHTML = x.join(' --- ');
         console.log(x);
     } else{
-        mostra.innerHTML = x;
+        mostra.innerHTML = x.join(' --- ');
         console.log(x);
     }
     

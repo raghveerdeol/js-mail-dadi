@@ -6,6 +6,20 @@
 body{
     font-family: sans-serif;
     background-color: rgb(82, 9, 9);
+    color: white;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 240px;
+}
+h1{
+    font-size: 2rem;
+    padding-bottom: 2rem;
+}
+main > div{
+    font-size: 1.3rem;
 }
 a{
     display: inline-block;
