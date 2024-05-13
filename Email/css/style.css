@@ -31,3 +31,15 @@ h1, #accesso{
     text-transform: uppercase;
     margin: 0 2rem;
 }
+a{
+    display: inline-block;
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 2rem;
+    position: relative;
+    top: 310px;
+    left: 25px;
+    padding: 1rem;
+    background-color: #d540cd;
+    color: black;
+}

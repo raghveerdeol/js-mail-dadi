@@ -11,6 +11,7 @@ main{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 200px;
 }
 .container{
     display: flex;
@@ -33,4 +34,16 @@ main{
 }
 #computernumber{
     background-color: rgb(178, 27, 27);
+}
+a{
+    display: inline-block;
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 2rem;
+    position: relative;
+    top: 310px;
+    padding: 1rem;
+    left: 25px;
+    background-color: #0f3c2d;
+    color: white;
 }
