@@ -1,4 +1,4 @@
-Consegna:
+<!-- Consegna:
 :avviso: creiamo una sottocartella per ciascun esercizio
 Gioco dei dadi
 Il giocatore gioca contro il computer.
@@ -9,7 +9,7 @@ Chiedi all’utente la sua email,
 controlla che sia nella lista di chi può accedere,
 stampa un messaggio appropriato sull’esito del controllo.
 Saltare a piè dispari [Bonus]
-Crea un array vuoto. Chiedi per 6 volte all’utente di inserire un numero, se è pari inseriscilo nell’array
+Crea un array vuoto. Chiedi per 6 volte all’utente di inserire un numero, se è pari inseriscilo nell’array -->
 
 DADI
 gnerare 2 numeri random da 1 a 6, 
